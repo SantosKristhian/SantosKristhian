@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Me chamo Kristhian dos Santos</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santoskristhian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santoskristhian" height="30" width="40" /></a>
 </p>
